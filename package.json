@@ -1,0 +1,24 @@
+{
+  "name": "pweb-requisicaoweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node myapp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdeildoNepomuceno/PWEB-atv-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdeildoNepomuceno/PWEB-atv-backend/issues"
+  },
+  "homepage": "https://github.com/AdeildoNepomuceno/PWEB-atv-backend#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-libcurl": "^2.3.4"
+  }
+}
